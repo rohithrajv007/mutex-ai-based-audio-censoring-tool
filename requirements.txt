@@ -1,0 +1,11 @@
+
+---
+
+```text
+# requirements.txt
+
+Flask>=2.0.3
+pydub>=0.25.1
+SpeechRecognition>=3.8.1
+vosk>=0.3.45
+numpy>=1.21.6
